@@ -12,8 +12,6 @@ const App = () => {
   )
 }
 
-export default App;
-
 ReactDOM.render(
   <React.StrictMode>
     <App />
